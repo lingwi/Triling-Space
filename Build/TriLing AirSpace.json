@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "TriLing AirSpace.data.unityweb",
+"asmCodeUrl": "TriLing AirSpace.asm.code.unityweb",
+"asmMemoryUrl": "TriLing AirSpace.asm.memory.unityweb",
+"asmFrameworkUrl": "TriLing AirSpace.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
